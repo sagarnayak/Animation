@@ -6,6 +6,10 @@ import android.support.v7.widget.Toolbar;
 import android.transition.Transition;
 import android.transition.TransitionInflater;
 
+/**
+ * create by SAGAR KUMAR NAYAK on 23 OCT 2017
+ * this is the target activity for shared element transition animation from the main activity.
+ */
 public class ArcMotion extends AppCompatActivity {
 
     @Override
