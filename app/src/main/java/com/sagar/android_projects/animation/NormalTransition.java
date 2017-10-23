@@ -7,6 +7,10 @@ import android.transition.Slide;
 import android.view.Gravity;
 import android.view.Window;
 
+/**
+ * create by SAGAR KUMAR NAYAK on 23 OCT 2017
+ * this is the target activity for normal left slide transition from the Index Activity.
+ */
 public class NormalTransition extends AppCompatActivity {
 
     @Override
@@ -19,6 +23,9 @@ public class NormalTransition extends AppCompatActivity {
         setupWindowAnimations();
     }
 
+    /**
+     * set up the enter animation for the activity.
+     */
     private void setupWindowAnimations() {
         getWindow().setEnterTransition(new Slide(Gravity.RIGHT));
     }
