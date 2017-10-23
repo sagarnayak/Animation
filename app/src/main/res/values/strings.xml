@@ -5,4 +5,5 @@
     <string name="normal_transition">normal transition</string>
     <string name="shared_transition">shared transition</string>
     <string name="title_activity_shared_element">SharedElement</string>
+    <string name="title_activity_arc_motion">ArcMotion</string>
 </resources>

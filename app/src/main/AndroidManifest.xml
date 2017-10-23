@@ -29,6 +29,11 @@
             android:label="@string/title_activity_shared_element"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
+        <activity
+            android:name=".ArcMotion"
+            android:label="@string/title_activity_arc_motion"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>
