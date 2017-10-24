@@ -3,6 +3,7 @@ Adding animation is a great way to make your Android application UI look awesome
 
 this is a project to demonstrate the following transition animations for android.
 1. normal transition
+![normal transition animation](http://aideafactory.com/wp-content/uploads/2017/10/normal_transition.gif)
 2. shared element transition
 3. shared element transition with arc motion
 4. circular reveal - https://github.com/sagarnayak/CircularReveal
