@@ -7,7 +7,13 @@ this is a project to demonstrate the following transition animations for android
 ![normal transition animation](http://aideafactory.com/wp-content/uploads/2017/10/normal_transition.gif)
 
 2. shared element transition
+
+![normal transition animation](http://aideafactory.com/wp-content/uploads/2017/10/shared_element.gif)
+
 3. shared element transition with arc motion
+
+![normal transition animation](http://aideafactory.com/wp-content/uploads/2017/10/shared_element_with_arc_motion.gif)
+
 4. circular reveal - https://github.com/sagarnayak/CircularReveal
 
 the full blong post can be found - http://aideafactory.com/activity-transition-animation-in-android/
